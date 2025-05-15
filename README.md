@@ -9,5 +9,6 @@ Here are few of the SQL scripts that I have created along with the dataset used.
 
 ## Projects Included
 
-* Nashville Housing Analysis
-* Covid Vaccinations
+* Nashville Housing Analysis -EDA
+* Covid Vaccinations -EDA
+* Case Study
