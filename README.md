@@ -11,4 +11,4 @@ Here are few of the SQL scripts that I have created along with the dataset used.
 
 * Nashville Housing Analysis -EDA
 * Covid Vaccinations -EDA
-* Case Study
+* Multiple Case Studies (Bicycle Rental Store, Museum, Mondelez International)
